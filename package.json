@@ -1,0 +1,22 @@
+{
+  "name": "animation",
+  "version": "1.0.0",
+  "description": "Created following the Frontendmaster's course by BTHolt",
+  "main": "animation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamnnagy/animation.git"
+  },
+  "author": "Adam Nagy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamnnagy/animation/issues"
+  },
+  "homepage": "https://github.com/adamnnagy/animation#readme",
+  "dependencies": {
+    "popmotion": "^8.7.1"
+  }
+}
